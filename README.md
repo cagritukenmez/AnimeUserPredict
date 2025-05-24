@@ -10,3 +10,4 @@
 
 # Linkler
 https://www.kaggle.com/code/artkenmez/anime-puan-tahmini
+https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
