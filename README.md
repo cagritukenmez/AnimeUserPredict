@@ -12,7 +12,7 @@
 - Lineer regresyon, decition tree ve random forest algoritması kullanarak eğittiğim modelleri RMSE metriği ile karşılaştırdım ve en düşük olan modeli(daha başarılı olan) seçtim. O model ise random forest algoritması olarak çıkmıştır. Bunun devamında bu algoritmanın en verimli halini elde edebilmek için hiperparametrelerin yani en uygun parametrelerin bulunması gerekir. Hiperparametrelerin bulunması amacı ile de GridSearchCV kullandım.
 
 # Gelecek Çalışmalar
-- En sevdiğiniz animeleri önden girdiğiniz bu girilen animelere göre de size sevebileceğiniz anime öneren web sitesi.
+- En sevdiğiniz animeleri önden girdiğiniz bu girilen animelere göre de size sevebileceğiniz anime öneren bir web sitesi.
   
 
 # Linkler
